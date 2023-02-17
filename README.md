@@ -24,7 +24,7 @@ To install requirement file
 pip install -r requirements.txt
 ```
 
-** Add files to git  `git add .` or  `git add <file_name>`    
+* Add files to git  `git add .` or  `git add <file_name>`    
 * To check the git status  `git status`    
 * To check all version maintained by git  `git log`    
 * To create version/commit all changes by git  `git commit -m "message"`    
